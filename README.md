@@ -7,9 +7,11 @@ The simulation code of my undergraduate thesis:
     <img src="./assets/imgs/undergraduate_thesis.png" alt="teaser" style="margin-right: 10px;">
 </div>
 
-<div style="display: flex; align-items: center;">
-    <video src="./assets/videos/ibvs_nmpc_px4.mp4" autoplay loop muted style="margin-right: 10px; width: auto; height: auto;"></video>
-</div>
+## Demo
+
+https://github.com/user-attachments/assets/533cb507-51b4-43ee-a9b6-e20464969bbf
+
+
 
 
 ## Introduction
