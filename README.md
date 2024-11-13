@@ -97,3 +97,18 @@ In this project, I leveraged Image-Based Visual Servo to control the translation
 Current MPC bug, the results calculated by the C code generated based on **ACADO** framework's code generation are inconsistent with the original framework's calculation results (same input), only when the visual features contraints are added into the model.
 
 #### Afterthat, I use **ACADOS** instead of **ACADO** to solve the visual features contraints problem and get ideal results, but the previous problem of **ACADO** still remains.
+
+# Citation
+
+Please use the following bibtex if you find this repo helpful and would like to cite:
+
+```bibtex
+@misc{ibvsnmpcpx4,
+  author = {Zhang, Yuanhang},
+  title = {Perception-constrained Visual Servoing Based NMPC for Quadrotor Flight},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/hang0610/ibvs_nmpc_px4}},
+}
+```
